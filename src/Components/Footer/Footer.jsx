@@ -1,6 +1,6 @@
 import React from "react";
 import "./Footer.css";
-import logo from "../../Assets/logo.png";
+import logo from "../../Assets/logoGearTop.png";
 import paymentIcon from "../../Assets/paymentIcon.png";
 import { FaFacebookF } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
@@ -35,8 +35,8 @@ const Footer = () => {
             <p>1418 River Drive, Suite 35 Cottonhall, CA 9622 United States</p>
 
             <div className="footer_address">
-              <strong> sale@uomo.com </strong>
-              <strong> +1 246-345-0695 </strong>
+              <strong> sale@geartub.com </strong>
+              <strong> +94 760 368 019 </strong>
             </div>
 
             <div className="social_links">
@@ -137,14 +137,14 @@ const Footer = () => {
         </div>
         <div className="footer_bottom">
           <p>
-            © 2024 Uomo. All Rights Reserved | Made By{" "}
+            © 2024 Gear Tub. All Rights Reserved | Made By{" "}
             <a
-              href="https://github.com/shakti177"
+              href="https://github.com/PrabhaWijera"
               target="_blank"
               rel="noreferrer"
               style={{ color: "#C22928", textDecoration: "none" }}
             >
-              Shakti Tamrakar
+              Prabhash Wijerathna
             </a>{" "}
             with ❤️
           </p>

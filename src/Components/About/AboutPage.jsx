@@ -2,7 +2,7 @@ import React from "react";
 import "./AboutPage.css";
 
 import about1 from "../../Assets/About/about-1.jpg";
-import about2 from "../../Assets/About/about-2.jpg";
+import about2 from "../../Assets/About/about-2.png";
 
 import Services from "../../Components/Home/Services/Services";
 
@@ -22,7 +22,7 @@ const AboutPage = () => {
   return (
     <div>
       <div className="aboutSection">
-        <h2>About Uomo</h2>
+        <h2>About GEAR TUB</h2>
         <img src={about1} alt="" />
         <div className="aboutContent">
           <h3>Our Story</h3>

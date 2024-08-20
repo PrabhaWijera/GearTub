@@ -15,7 +15,7 @@ import Product_7_1 from "../Assets/Products/product_7-1.jpg";
 import Product_8 from "../Assets/Products/product_8.jpg";
 import Product_8_1 from "../Assets/Products/product_8-1.jpg";
 
-import limited1 from "../Assets/LimitedEdition/limited-1.jpg";
+import limited1 from "../Assets/LimitedEdition/limited-1.png";
 import limited2 from "../Assets/LimitedEdition/limited-2.jpg";
 import limited3 from "../Assets/LimitedEdition/limited-3.jpg";
 import limited4 from "../Assets/LimitedEdition/limited-4.jpg";
@@ -89,35 +89,35 @@ let StoreData = [
   {
     productID: 9,
     frontImg: limited1,
-    productName: "Hosking Blue Area Rug",
+    productName: "Brown Leather Love Mark Hand Band",
     productPrice: 29,
     productReviews: "8k+ reviews",
   },
   {
     productID: 10,
     frontImg: limited2,
-    productName: "Hanneman Pouf",
+    productName: "Back Cotton Cap",
     productPrice: 92,
     productReviews: "5k+ reviews",
   },
   {
     productID: 11,
     frontImg: limited3,
-    productName: "Cushion Futon Slipcover",
+    productName: "Premium Leather Backpack",
     productPrice: 25,
     productReviews: "1k+ reviews",
   },
   {
     productID: 12,
     frontImg: limited4,
-    productName: "Hub Accent Mirror",
+    productName: "Leather Black Belt",
     productPrice: 27,
     productReviews: "7k+ reviews",
   },
   {
     productID: 13,
     frontImg: limited5,
-    productName: "Bold Male Black Analog",
+    productName: "Black Watch Fossil",
     productPrice: 39,
     productReviews: "71+ reviews",
   },
