@@ -1,8 +1,8 @@
-import blog1 from "../Assets/Blog/blog1.jpg";
+import blog1 from "../Assets/Blog/blog5.jpg";
 import blog2 from "../Assets/Blog/blog2.jpg";
 import blog3 from "../Assets/Blog/blog3.jpg";
 import blog4 from "../Assets/Blog/blog4.jpg";
-import blog5 from "../Assets/Blog/blog5.jpg";
+import blog5 from "../Assets/Blog/blog1.jpg";
 import blog6 from "../Assets/Blog/blog6.jpg";
 
 let BlogData = [
